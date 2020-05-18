@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( imageCompression )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( imageCompression imageCompression.cpp )
+target_link_libraries( imageCompression ${OpenCV_LIBS} )
