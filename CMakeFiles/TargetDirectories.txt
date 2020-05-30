@@ -1,3 +1,0 @@
-/home/blackfly/projects/image_compression/CMakeFiles/rebuild_cache.dir
-/home/blackfly/projects/image_compression/CMakeFiles/imageCompression.dir
-/home/blackfly/projects/image_compression/CMakeFiles/edit_cache.dir
